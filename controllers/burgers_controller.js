@@ -16,7 +16,7 @@ router.get("/", function(req, res) {
   });
   
   router.post("/", function(req, res) {
-    burger.create([
+    burger.insertOne([
       "name","devoured"
     ], [
         req.body.name, 0

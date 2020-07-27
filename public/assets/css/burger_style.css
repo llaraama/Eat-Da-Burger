@@ -1,2 +1,19 @@
+body {
+    background-image: url("../img/burgers-background.jpg");
+    background-position: center;
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
+  }
+  .container{
+      background-color: rgb(218, 180, 14);
+      width: 80%;
+      text-align: center;
+      float: center;
+      font-size: medium;
+
+  }
+  .center{
+       padding-left: 15%; 
+  }
 
 
