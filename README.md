@@ -1,5 +1,4 @@
-# HW11-Eat-Da-Burger
-## Node Express Handlebars
+## Eat-Da-Burger Using Node Express Handlebars
 
 Heroku Link: https://pacific-chamber-74565.herokuapp.com/
 
