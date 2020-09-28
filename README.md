@@ -35,7 +35,7 @@ Heroku Link: https://pacific-chamber-74565.herokuapp.com/
 Clone this repo to your local machine using: https://github.com/llaraama/Eat-Da-Burger.git
 
 ## Usage
-![image](https://user-images.githubusercontent.com/62354759/88743800-96a1ee80-d113-11ea-9e06-23313783bb60.png)
+![burger](https://user-images.githubusercontent.com/62354759/94467409-e98a3780-0190-11eb-8409-2493c6ff7dfb.gif)
 
 ## License 
 MIT License 
